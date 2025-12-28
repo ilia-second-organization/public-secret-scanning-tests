@@ -9,3 +9,6 @@ fadsfdas
 
 
 rk_live_4hTOJGTdSoHZ6V1GJGPYTZNR
+
+
+azure-token = 7hT1OJG827hTO8GTdS3oHZ1V8GJGPY4TZNR
