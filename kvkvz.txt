@@ -1,3 +1,22 @@
 
 
 rk_live_4hTOJGTdSoHZ6V1GJGPYTZNR
+
+
+boundary_address  =   "https://somecrappyhttpdomain.boundary.hashicorp.cloud"
+boundary_auth_method_id = "some-lies"
+boundary_username       = "admin"
+boundary_password       = "Hey!"
+
+vault_address    = "https://mypersonal-corp-vault.cloud:8200"
+vault_token   = "hvs.CAESIJ1Cfx2XqfagoGuYs83guFqRu6wMHrtTtelJrAjllDPJGiYKImh2cy4xS0dCS1cyUlpPVTJoQ3daUUNMVYzYuR0l5QnQQfw"
+vault_namespace = "boundary"
+
+
+postgres-something = "YourPwdShouldBeLongAndSecure!"
+
+sshca_hostname = "test.test.test:80333"
+
+application_name = "example"
+
+windows_port = 555
