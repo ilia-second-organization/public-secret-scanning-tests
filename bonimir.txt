@@ -23,4 +23,6 @@ externalconfig:
   applications:
     spiffe:
       identity:
-        vantage-clientSecret: 7hT1OJ~G827hsTO82G_TdS3oHZ1V8GeJGPY4TZNR
+        vantage-Secret: 7hT1OJ~G827hsTO82G_TdS3oHZ1V8GeJGPY4TZNR
+        vantage-Secret: 7hT1OJ~G827hs6O826_TdS3oHZ1V8GeJGPY4TZNR
+
