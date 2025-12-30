@@ -15,3 +15,12 @@ azure-token = 7hT1OJG827hTO8GTdS3oHZ1V8GJGPY4TZNR
 
 
 "clientSecret": "f4c3d3ad-1234-5678-9abc-def012345678"
+
+
+
+
+externalconfig:
+  applications:
+    spiffe:
+      identity:
+        clientSecret: 7hT1OJ~G827hsTO82G_TdS3oHZ1V8GeJGPY4TZNR
